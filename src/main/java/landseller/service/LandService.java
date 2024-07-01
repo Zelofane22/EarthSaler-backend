@@ -1,8 +1,7 @@
-package ecpi.earthsaler.service;
+package landseller.service;
 
-import ecpi.earthsaler.dao.LandDAO;
-import ecpi.earthsaler.model.Land;
-
+import landseller.dao.LandDAO;
+import landseller.model.Land;
 import java.util.List;
 
 public class LandService {

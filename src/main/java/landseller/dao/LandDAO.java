@@ -1,11 +1,11 @@
-package ecpi.earthsaler.dao;
+package landseller.dao;
 
-import ecpi.earthsaler.model.Land;
-
+import landseller.model.Land;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
 import jakarta.persistence.TypedQuery;
+
 import java.util.List;
 
 public class LandDAO {
